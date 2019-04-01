@@ -13,7 +13,7 @@ Department	   | Choice	             | (Human Resource,Finance,Employee)(When Emp
 ExternalHiring | Yes/No	             |
 ReportingManager| Person or Group    |
 
-![alt text](https://raw.githubusercontent.com/chemtrec2900/SPFxReact/master/Output.gif)
+![alt text](https://raw.githubusercontent.com/tesfayegari/SPFxReact/master/Output.gif)
 
 ### Building the code
 
